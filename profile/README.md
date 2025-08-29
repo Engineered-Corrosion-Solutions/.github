@@ -1,6 +1,6 @@
 # Engineered Corrosion Solutions
 
----
+
 
 <img src="./ECS-logo.png" alt="ECS Logo" width="50%">
 
